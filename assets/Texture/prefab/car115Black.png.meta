@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "5c536b49-2b89-4158-be63-d645f75d3f75",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 160,
+  "height": 160,
+  "platformSettings": {},
+  "subMetas": {
+    "car115Black": {
+      "ver": "1.0.4",
+      "uuid": "9c28ffa8-db35-4290-ba0c-dc37435a1926",
+      "rawTextureUuid": "5c536b49-2b89-4158-be63-d645f75d3f75",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -9,
+      "trimX": 1,
+      "trimY": 33,
+      "width": 158,
+      "height": 112,
+      "rawWidth": 160,
+      "rawHeight": 160,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
